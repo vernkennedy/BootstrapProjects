@@ -1,0 +1,39 @@
+{
+"records": [
+  {
+    "project_name" : "Center for Entrepreneurship website",    
+    "avatar_url" : "c4e.jpg",
+    "description" : "https://github.com/vernkennedy/Project-Portfolio-Tracker/blob/master/description.txt",
+    "summary" : "Scottwiggam.com is a WordPress website built for the reelection of ScottWiggam for Wayne County Commissioner in Ohio.",
+    "code_url" : "#",
+    "demo_url" : "http://vernkennedy.github.io/C4EBootstrapSite/ ",
+	"frontend_infor" : "Html5,CSS3,JavaScript,jQuery, WordPress CMS",
+    "backend_infor" : "Php5,SQL,MySQL",
+    "demotype" : "Live Demo"
+  },
+  
+  {
+    "project_name" : "C4E Business Development Worksheet (with print and mailto)",    
+    "avatar_url" : "bizdev.png",
+	"description" : "https://github.com/vernkennedy/Database-Google-Map/blob/master/description.txt",
+	"summary" : "Project ROTIA site is a WordPress website/theme built for the showcase of Project ROTIA projects. It is a subtheme of the WordPress 2013 theme",
+    "code_url" : "https://github.com/vernkennedy/Database-Google-Map",
+    "demo_url" : "https://www.youtube.com/watch?v=QAgBDwnvH3I",
+	"frontend_infor" : "Html5,CSS3,JavaScript",
+    "backend_infor" : "Php5,SQL,MySQL, WordPress CMS",
+    "demotype" : "Video Demo"
+  },
+  
+  {
+    "project_name" : "Faith and Miracles for all ministries Site",    
+    "avatar_url" : "church.png",
+	"description" : "https://github.com/vernkennedy/IS-ScotBoard/blob/master/description.txt",
+	"summary" : "This is a Drupal website and theme built for the Faith and Miracles for all ministries church in Malawi. This is an attempt to publicise the church and increase the number of numbers.",
+    "code_url" : "https://github.com/vernkennedy/IS-ScotBoard",
+    "demo_url" : "https://www.youtube.com/watch?v=lJM2oFMoDkM",
+	"frontend_infor" : "Html5,CSS3,JavaScript",
+    "backend_infor" : "Php5,SQL,MySQL, Drupal CMS",
+    "demotype" : "Video Demo"
+  }
+]
+}
