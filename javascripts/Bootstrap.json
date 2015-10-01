@@ -3,24 +3,24 @@
   {
     "project_name" : "Center for Entrepreneurship website",    
     "avatar_url" : "c4e.jpg",
-    "description" : "https://github.com/vernkennedy/Project-Portfolio-Tracker/blob/master/description.txt",
-    "summary" : "Scottwiggam.com is a WordPress website built for the reelection of ScottWiggam for Wayne County Commissioner in Ohio.",
-    "code_url" : "#",
+    "description" : "#",
+    "summary" : "A new independent site linked to the College of Wooster website. This site has more content and also a modern look and feel than the college site.",
+    "code_url" : "https://github.com/vernkennedy/C4EBootstrapSite/tree/gh-pages",
     "demo_url" : "http://vernkennedy.github.io/C4EBootstrapSite/ ",
-	"frontend_infor" : "Html5,CSS3,JavaScript,jQuery, WordPress CMS",
-    "backend_infor" : "Php5,SQL,MySQL",
+	"frontend_infor" : "Html5,CSS3,Microdata,JavaScript,jQuery, Bootstrap3, Google Analytics, Google Tag Manager",
+    "backend_infor" : "None",
     "demotype" : "Live Demo"
   },
   
   {
     "project_name" : "C4E Business Development Worksheet (with print and mailto)",    
     "avatar_url" : "bizdev.png",
-	"description" : "https://github.com/vernkennedy/Database-Google-Map/blob/master/description.txt",
-	"summary" : "Project ROTIA site is a WordPress website/theme built for the showcase of Project ROTIA projects. It is a subtheme of the WordPress 2013 theme",
-    "code_url" : "https://github.com/vernkennedy/Database-Google-Map",
+	"description" : "#",
+	"summary" : "A web interface meant to help student entrepreneurs think through and input their business ideas before printing or electronic submission",
+    "code_url" : "https://github.com/vernkennedy/BizDevWorksheet/tree/gh-pages",
     "demo_url" : "http://vernkennedy.github.io/BizDevWorksheet/",
-	"frontend_infor" : "Html5,CSS3,JavaScript",
-    "backend_infor" : "Php5,SQL,MySQL, WordPress CMS",
+	"frontend_infor" : "Html5,CSS3,JavaScript,jQuery, Bootstrap3, Google Analytics, Google Tag Manager",
+    "backend_infor" : "None",
     "demotype" : "Live Demo"
   },  
   
