@@ -1,5 +1,5 @@
 {
-"projects": [
+"records": [
   {
     "project_name" : "Center for Entrepreneurship website",    
     "avatar_url" : "c4e.jpg",
@@ -18,11 +18,22 @@
 	"description" : "https://github.com/vernkennedy/Database-Google-Map/blob/master/description.txt",
 	"summary" : "Project ROTIA site is a WordPress website/theme built for the showcase of Project ROTIA projects. It is a subtheme of the WordPress 2013 theme",
     "code_url" : "https://github.com/vernkennedy/Database-Google-Map",
-    "demo_url" : "https://www.youtube.com/watch?v=QAgBDwnvH3I",
+    "demo_url" : "http://vernkennedy.github.io/BizDevWorksheet/",
 	"frontend_infor" : "Html5,CSS3,JavaScript",
     "backend_infor" : "Php5,SQL,MySQL, WordPress CMS",
-    "demotype" : "Video Demo"
-  }  
+    "demotype" : "Live Demo"
+  },  
   
+  {
+    "project_name" : "X)",    
+    "avatar_url" : "none.png",
+	"description" : "#",
+	"summary" : "None is just a placeholder for now. website/theme built for the showcase of Project ROTIA projects. It is a subtheme of the WordPress 2013 theme",
+    "code_url" : "#",
+    "demo_url" : "#",
+	"frontend_infor" : "Html5,CSS3,JavaScript",
+    "backend_infor" : "Php5,SQL,MySQL, WordPress CMS",
+    "demotype" : "Live Demo"
+  }
 ]
 }
