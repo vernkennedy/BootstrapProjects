@@ -16,7 +16,7 @@
     "project_name" : "C4E Business Development Worksheet (with print and mailto)",    
     "avatar_url" : "bizdev.png",
 	"description" : "#",
-	"summary" : "A web interface for helping students think through and input their business ideas before printing or electronic submission",
+	"summary" : "A web interface for helping student entrepreneurs think through and input their business ideas before printing or electronic submission",
     "code_url" : "https://github.com/vernkennedy/BizDevWorksheet/tree/gh-pages",
     "demo_url" : "http://vernkennedy.github.io/BizDevWorksheet/",
 	"frontend_infor" : "Html5,CSS3,JavaScript,jQuery, Bootstrap3, Google Analytics, Google Tag Manager",
