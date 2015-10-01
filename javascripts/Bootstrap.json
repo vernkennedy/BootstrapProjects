@@ -19,7 +19,7 @@
 	"summary" : "A web interface for helping student entrepreneurs think through and input their business ideas before printing or electronic submission",
     "code_url" : "https://github.com/vernkennedy/BizDevWorksheet/tree/gh-pages",
     "demo_url" : "http://vernkennedy.github.io/BizDevWorksheet/",
-	"frontend_infor" : "Html5,Html5 Form Validation, CSS3, jQuery, Bootstrap3, Google Analytics, Google Tag Manager",
+	"frontend_infor" : "Html5,Html5 Form Validation, CSS3, jQuery, Bootstrap3, Google Analytics and Tag Manager",
     "backend_infor" : "None",
     "demotype" : "Live Demo"
   },  
