@@ -13,7 +13,7 @@
   },
   
   {
-    "project_name" : "C4E Business Development Worksheet (with print and mailto)",    
+    "project_name" : "C4E Business Development Worksheet (submit using mailto)",    
     "avatar_url" : "bizdev.png",
 	"description" : "#",
 	"summary" : "A web interface for helping student entrepreneurs think through and input their business ideas before printing or electronic submission",
