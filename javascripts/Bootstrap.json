@@ -22,18 +22,6 @@
 	"frontend_infor" : "Html5,CSS3,JavaScript,jQuery, Bootstrap3, Google Analytics, Google Tag Manager",
     "backend_infor" : "None",
     "demotype" : "Live Demo"
-  },  
-  
-  {
-    "project_name" : "X)",    
-    "avatar_url" : "none.png",
-	"description" : "#",
-	"summary" : "None is just a placeholder for now. website/theme built for the showcase of Project ROTIA projects. It is a subtheme of the WordPress 2013 theme",
-    "code_url" : "#",
-    "demo_url" : "#",
-	"frontend_infor" : "Html5,CSS3,Microdata,JavaScript,jQuery, Bootstrap3, Google Analytics, Google Tag Manager",
-    "backend_infor" : "None",
-    "demotype" : "Live Demo"
   }
 ]
 }
