@@ -25,13 +25,13 @@
   },  
   
   {
-    "project_name" : "X)",    
-    "avatar_url" : "none.png",
+    "project_name" : "Assassins Creed Sample",    
+    "avatar_url" : "assassin.png",
 	"description" : "#",
-	"summary" : "None is just a placeholder for now. website/theme built for the showcase of xxxxxxx xxxxx xxxxxxxx. xx xx xxxxxxxxxx xx xxx xxxxxxxxx xxxx xxxxx",
-    "code_url" : "#",
-    "demo_url" : "#",
-	"frontend_infor" : "Html5,CSS3,Microdata,JavaScript,jQuery, Bootstrap3, Google Analytics, Google Tag Manager",
+	"summary" : "This is just a UI design idea I came up with recently and borrowed images from the Assassins Creed to act as placeholder for now. It shows a grid and has a modal window which has a gallery (slideshow) of images",
+    "code_url" : "https://github.com/vernkennedy/AngularBootStrap/tree/gh-pages",
+    "demo_url" : "http://vernkennedy.github.io/AngularBootStrap/",
+	"frontend_infor" : "Html5,CSS3, AngularJS, Bootstrap3",
     "backend_infor" : "None",
     "demotype" : "Live Demo"
   } 
