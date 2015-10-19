@@ -26,7 +26,7 @@
   
   {
     "project_name" : "Assassins Creed Sample",    
-    "avatar_url" : "assassin.jpg",
+    "avatar_url" : "assassin.jpeg",
 	"description" : "#",
 	"summary" : "This is just a UI design idea I came up with recently and borrowed images from the Assassins Creed to act as placeholder for now. It shows a grid and has a modal window which has a gallery (slideshow) of images",
     "code_url" : "https://github.com/vernkennedy/AngularBootStrap/tree/gh-pages",
